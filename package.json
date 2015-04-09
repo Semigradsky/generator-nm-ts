@@ -1,6 +1,6 @@
 {
   "name": "generator-nm-ts",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Scaffold out a TypeScript node module. Using tsd, tslint, tsconfig and other cool things.",
   "license": "MIT",
   "repository": "Semigradsky/generator-nm-ts",
