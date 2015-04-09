@@ -1,0 +1,42 @@
+{
+  "name": "generator-nm-ts",
+  "version": "0.0.0",
+  "description": "Scaffold out a TypeScript node module. Using tsd, tslint, tsconfig and other cool things.",
+  "license": "MIT",
+  "repository": "Semigradsky/generator-nm-ts",
+  "author": {
+    "name": "Dmitry Semigradsky",
+    "email": "semigradskyd@gmail.com",
+    "url": "https://github.com/Semigradsky"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "plugin",
+    "boilerplate",
+    "template",
+    "scaffold",
+    "node",
+    "module",
+    "node_module",
+    "node-module",
+    "typescript",
+    "tsd"
+  ],
+  "dependencies": {
+    "humanize-url": "^1.0.1",
+    "normalize-url": "^1.2.0",
+    "yeoman-generator": "^0.18.10"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
